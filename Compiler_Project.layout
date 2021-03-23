@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="phase1.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4454" topLine="28" />
+		</Cursor>
+		<Folding>
+			<Collapse line="51" />
+		</Folding>
+	</File>
+	<File name="phase1.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="244" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="57" />
+			<Collapse line="63" />
+			<Collapse line="69" />
+			<Collapse line="85" />
+			<Collapse line="95" />
+			<Collapse line="108" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="186" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase2.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="49495" topLine="1254" />
+		</Cursor>
+		<Folding>
+			<Collapse line="41" />
+		</Folding>
+	</File>
+	<File name="phase2.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1008" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+		</Folding>
+	</File>
+	<File name="phase2_parser.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="217" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase2_leftrec_fact.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="423" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="phase2_leftrec_fact.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="111" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase2_parser.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2292" topLine="84" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

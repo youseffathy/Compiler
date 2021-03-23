@@ -1,0 +1,513 @@
+# depslib dependency file v1.0
+1586993097 source:c:\users\hp\desktop\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1586993354 c:\users\hp\desktop\compiler_project\phase1.h
+
+1587127887 source:c:\users\hp\desktop\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1587034334 c:\users\hp\desktop\compiler_project\phase2.h
+
+1587482616 source:c:\users\hp\desktop\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 c:\users\hp\desktop\compiler_project\phase2_parser.h
+
+1586997354 c:\users\hp\desktop\compiler_project\phase2_leftrec_fact.h
+
+1586998178 source:c:\users\hp\desktop\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1587127803 source:c:\users\hp\desktop\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1589558759 e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase1.h
+
+1587034334 e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase2.h
+
+1589566662 source:e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1587482616 source:e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase2_leftrec_fact.h
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\phase2\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1591322997 e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase1.h
+
+1591245458 e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase2.h
+
+1591323065 source:e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase2_leftrec_fact.h
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1591385983 source:e:\faculty\6-third year - second term\compilers\project\phase3\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1591322997 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase1.h
+
+1591245458 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase2.h
+
+1591323065 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase2_leftrec_fact.h
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1591413165 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1591322997 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase1.h
+
+1591483620 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase2.h
+
+1591323065 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase2_leftrec_fact.h
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1591493594 source:e:\faculty\6-third year - second term\compilers\project\phase3 - copy_testbackpatching - copy-2\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1591322997 e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase1.h
+
+1591483620 e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase2.h
+
+1591323065 source:e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase2_leftrec_fact.h
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1591531021 source:e:\faculty\6-third year - second term\compilers\project\phase3 - testbackpatching -final - copy2\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1591322997 e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase1.h
+
+1591483620 e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase2.h
+
+1591323065 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase2_leftrec_fact.h
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+
+1591569207 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - copy-test\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1587127887 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2.h"
+
+1591322997 e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase1.h
+
+1591483620 e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase2.h
+
+1591323065 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+
+1591623108 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1586996509 e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase2_parser.h
+
+1586997354 e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase2_leftrec_fact.h
+
+1587127803 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase2_leftrec_fact.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2_leftrec_fact.h"
+	"phase2.h"
+
+1589583875 source:e:\faculty\6-third year - second term\compilers\project\compiler final project - final version\compiler_project\phase2_parser.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<fstream>
+	<regex>
+	<stack>
+	"phase1.h"
+	"phase2_parser.h"
+	"phase2.h"
+

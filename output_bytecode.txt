@@ -1,0 +1,26 @@
+0:iconst 0
+1:istore_1
+2:iload 1
+3:iconst 5
+4:icmpl
+5:if_ge  #13
+6:iload 1
+7:iconst 1
+8:iadd
+9:istore_1
+10:goto  #2
+13:iload 1
+14:istore_2
+15:iload 2
+16:iconst 5
+17:icmpl
+18:if_ne  #26
+19:iload 1
+20:iconst 3
+21:imul
+22:istore_2
+23:goto  #30
+26:iload 1
+27:iconst 3
+28:iadd
+29:istore_2
